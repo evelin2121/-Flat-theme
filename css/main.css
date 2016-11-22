@@ -1,0 +1,61 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,700,300);
+
+.clearfix {
+  *zoom: 1;
+}
+
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+.clearfix:after {
+  clear: both;
+}
+
+.pequeña{
+	width: 50px;
+	height: 50px;
+}
+.image{
+	background-image:url(../images/slider/bg1.jpg);
+	background-position: 30% 0%;
+	max-width: 100%;
+
+	padding-bottom:650px;
+	background-repeat: no-repeat;
+	position: relative;
+	bottom: 25px;
+}
+.color{
+	background-color: #36db80;
+	padding: 80px;
+	position: relative;
+	bottom: 15px;
+
+}
+ .fondo-dos{
+ 	background-color: #c9c3c1;
+ 	padding:80px;
+ 	position: relative;
+ 	bottom: 20px;
+ }
+
+.fondo-tres{
+	background-color:#bc3e18;
+	padding: 100px;
+    color:#e0dcdb ;
+}
+.fondo-cuatro{
+
+	background-color: #243663;
+	padding: 100px;
+	color:#e0dcdb ;
+}
+.fin{
+	background-color:#0f1c33 ;
+	color:#e0dcdb ;
+	padding: 30px;
+}
+
