@@ -18,44 +18,239 @@
 	width: 50px;
 	height: 50px;
 }
+
+.peqieñas{
+	
+
+
+}
 .image{
 	background-image:url(../images/slider/bg1.jpg);
-	background-position: 30% 0%;
-	max-width: 100%;
-
-	padding-bottom:650px;
 	background-repeat: no-repeat;
-	position: relative;
-	bottom: 25px;
+    background-size:cover;
+    bottom: 25px;
+    position: relative;
+    height: 700px;
+    
 }
 .color{
 	background-color: #36db80;
-	padding: 80px;
 	position: relative;
-	bottom: 15px;
+	bottom: 25px;
+    padding: 50px;
+}
 
+.titu{
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+}
+
+.vertical{
+   border-left: 1px solid; 
+    color: aliceblue;
+   width:1px; 
+   height:70px;
+   width: 5px;    
+    
+}
+
+.sector{
+    padding-left: 50px;
+    position: relative;
+    bottom: 80px;
 }
  .fondo-dos{
  	background-color: #c9c3c1;
- 	padding:80px;
+    padding: 50px;
  	position: relative;
- 	bottom: 20px;
+ 	bottom: 25px;
  }
 
 .fondo-tres{
 	background-color:#bc3e18;
-	padding: 100px;
+	padding: 50px;
     color:#e0dcdb ;
+    position: relative;
+    bottom:25px;
 }
 .fondo-cuatro{
-
+    position: relative;
+    bottom: 25px;
 	background-color: #243663;
-	padding: 100px;
+	padding: 30px;
 	color:#e0dcdb ;
+
+}
+
+.titulo{
+	position: relative;
+    top: 400px;
+    left: 200px;
+    color: #d6cdcd;
 }
 .fin{
 	background-color:#0f1c33 ;
 	color:#e0dcdb ;
 	padding: 30px;
+    position: relative;
+    bottom: 26px;
 }
 
+.logo{
+	position: relative;
+	padding-top: 10px;
+}
+
+a{
+	color:#f4eded;
+}
+.container-fluid{
+	background-color: #3d3838;
+}
+h2{
+	font-size: 40px;
+}
+
+h6{
+	font-size: 16px;
+}
+.cuadro-uno{
+    padding-left: 100px;
+}
+.cuadro-dos{
+    padding-left: 100px
+}
+.cuadro-tres{
+    padding-left: 140px
+
+}
+.iconos{
+	font-size: 100px; 
+    position: relative;
+    top:100px;    
+}
+
+.caja{
+	position: relative;
+	left: 70px;
+	bottom: 60px;
+}
+.cuadro{
+	padding-left: 50px;
+}
+
+.formd{
+	padding-left: 30px;
+}
+
+.input-group{
+	padding-left: 50px;
+}
+.btn{
+	background-color: #961515;
+	color:#ede6e6;
+}
+
+
+.izquiuno{
+	position: relative;
+	left: 80px;
+    width: 350px;
+    top: 30px;
+    font-size:line-height;
+}
+.izquidos{
+	position: relative;
+	left: 30px;
+	right:20px;
+    width: 350px;
+    top: 30px;
+
+}
+.izquitres{
+	position: relative;
+	right:20px;
+    width: 350px;
+    top: 30px;
+
+}
+.cent{
+	text-align: center;
+	padding: 50px;
+	background-color: #f4f4f7;
+}
+.izquieruno{
+	position: relative;
+	left: 95px;
+    width: 350px;
+    top: 80px;
+}
+
+.izquierdos{
+	position: relative;
+	left: 35px;
+	right:20px;
+    width: 350px;
+     top: 80px;
+}
+
+.izquiertres{
+	position: relative;
+	right:25px;
+    width: 350px;
+    top: 80px;
+}   
+.verde{
+	background-color:#fcfcfc;
+	height:700px;  
+}
+
+.blo{
+	text-align: center;
+	}
+.you{
+	padding-left: 
+}
+
+.sector-uno{
+    background-color: beige;
+    padding: 50px;
+    position: relative;
+    bottom: 25px;
+}
+
+.sector-dos{
+     background-color: beige;
+    padding: 50px;
+    position: relative;
+    bottom: 25px;
+}
+
+.igagen{
+    border-radius: 150px;
+    border-color: aliceblue;
+    }
+.port{
+    padding-left: 30px;
+    font-family:serif;
+    
+}
+
+.ico{
+    font-size: 50px; 
+     
+}
+
+.textarea {
+    width:320px;
+    height:200px;
+    border: 1px solid #990000;
+    position: relative;
+    top: 60px
+    }
+.espa{
+    width: 300px;
+    height: 30px;
+    
+    }
